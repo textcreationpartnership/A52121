@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The description of a plain instrument that with much ease and exactness will discover the situation of any vertical plane, howsoever inclining, reclining, or declining and how to draw a dyal upon any such plane or upon the face of any vertical body, how irregular soever : together with several other things requisite to the art of dyaling / by A. M.</title>
+            <author>Martindale, Adam, 1623-1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52121</idno>
+            <idno type="STC">Wing M855</idno>
+            <idno type="STC">ESTC R26189</idno>
+            <idno type="EEBO-CITATION">09382633</idno>
+            <idno type="OCLC">ocm 09382633</idno>
+            <idno type="VID">42916</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52121)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42916)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1312:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The description of a plain instrument that with much ease and exactness will discover the situation of any vertical plane, howsoever inclining, reclining, or declining and how to draw a dyal upon any such plane or upon the face of any vertical body, how irregular soever : together with several other things requisite to the art of dyaling / by A. M.</title>
+                  <author>Martindale, Adam, 1623-1686.</author>
+               </titleStmt>
+               <extent>14 p., [1] leaf of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Coniers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dialing --  Early works to 1800.</term>
+               <term>Dial indicator --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42916:1" rendition="simple:additions"/>
+            <p>THE DESCRIPTION Of a Plain INSTRUMENT, THAT With much eaſe and exactneſs will diſco<g ref="char:EOLhyphen"/>ver the ſituation of any vertical Plane, how<g ref="char:EOLhyphen"/>ſoever inclining, reclining, or declining, AND How to draw a DYAL upon any ſuch Plane, or upon the face of any vertical body, how irregular ſoever, TOGETHER With ſeveral other things requiſite to the ART of DYALING.</p>
+            <p>By <hi>A. M.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Coniers</hi> at the
+<hi>Raven</hi> in <hi>'Duck-Lane,</hi> 1668.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:42916:2"/>
+            <p>
+               <figure>
+                  <figDesc>both elements of the dial instrument</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:42916:2"/>
+            <pb facs="tcp:42916:3"/>
+            <pb n="1" facs="tcp:42916:3"/>
+            <head>The Deſcription of a plain Instrument, that with much eaſe and exactneſs will diſcover the ſituation of any vertical plane howſoever inclining, reclining, or declining; and how to draw a Dyal upon any ſuch plane, or upon the face of any vertical body how irregular ſoever, together with ſeveral other things requiſite to the Art of Dyalling.</head>
+            <p>THe Inſtrument conſiſts of two main parts, a Baſis and a Dyal.</p>
+            <p>The Baſis may be a plate of Braſs, or a piece of wood ſmooth wrought, and of one thickneſs throughout, perfectly ſquare, and divided into 4 little ſquares, by 2 right lines, cutting each other <pb n="2" facs="tcp:42916:4"/>at right Angles in the preciſe middle, one being marked with <hi>W. E.</hi> for Weſt and Eaſt, and the o<g ref="char:EOLhyphen"/>ther with <hi>N. S.</hi> for the North and South; which latter line repreſenteth the Meridian when the Dy<g ref="char:EOLhyphen"/>al ſtands in its moſt natural poſition; but its more ordinary uſe will be to repreſent the Axis of the plane.</p>
+            <p>Upon the interſection of theſe two lines, as upon a Centre, muſt be deſcribed one circle or more; two quadrants whereof from
+<hi>N.</hi> both ways are to be divided into degrees (if not ſmaller parts) and diſtinguiſhed by Figures, as the degrees of qua<g ref="char:EOLhyphen"/>drants uſually are.</p>
+            <p>The edge of the Baſis noted with <hi>N.</hi> I ſhall for diſtinctions ſake, call the fiducial edge.</p>
+            <p>So much for the Baſis: The Dyal is a perfect horizontal one, fitted to the latitude of the place where 'tis preſumed it will be moſt uſed, The Plate of the Dyal exactly circular, and having the ſame common Centre with the Hour circle, and the utmoſt edge of the Dyal-plate almoſt touching the circle of the Baſis, whereof 2 quadrants were divided, as aforeſaid.</p>
+            <p>Through the Centre of the Dyal is a ſmal Pin driven, or ſcrewed into the Baſis at the Centre, faſtning the Dyal to the Baſis, yet ſo as it may turn about ſomewhat ſtraitly; and another Pin ſo contrived as to fix the Dyal at pleaſure in any poſi<g ref="char:EOLhyphen"/>tion; from the former of which Pins a threed of of ſtrong ſilk iſſueth at the Centre of the Dyal.</p>
+            <pb n="3" facs="tcp:42916:4"/>
+            <p>Upon ſome convenient place of the Gnomon is a line drawn perpendicular to the Dyal-plate, with a thred and plummet fitted to it, and falling upon a large Arch of a Circle, divided both ways from the ſaid line into degrees and parts, for ſhewing the inclination and reclination of Planes: And at the lower edge of the Gnomon, the North end hath a ſharp point or Index, and another at the oppoſite end of the Meridian line I ſhall call the Counter-Index, ſerving to point out declina<g ref="char:EOLhyphen"/>tions.</p>
+            <p>It is convenient to have the uppe edge of the Gnomon long, and when the inſtrument muſt be placed far from the plane (as in ſome caſes it will fall out) it is good to lengthen out the Gnomon and hour-lines in the operation, by applying thereunto a fine ſtreight rule; and the ſame courſe will be convenient when the Inſtrument is a very little one.</p>
+            <p>There is beſides belonging to it a plate and a needle: The plate may be of fine thin braſs, or tin-plate ſmooth and purely flat, cut at right An<g ref="char:EOLhyphen"/>gles, of the form of an Octavo leaf, but ſome<g ref="char:EOLhyphen"/>what longer, with a long notch towards the mid<g ref="char:EOLhyphen"/>dle cut out, about the length of the third part of the Diameter of the Dyal, or ſcarce ſo much, and of what depth you pleaſe, provided it be deep e<g ref="char:EOLhyphen"/>nough to give way, that the notched edge may touch the line of VI without diſturbance from the Pin in the Centre of the Dyal.</p>
+            <pb n="4" facs="tcp:42916:5"/>
+            <p>The needle muſt be hafted and framed much after the faſhion of a Shoemakers ſmall Awl, but lon<g ref="char:EOLhyphen"/>ger and more bowed, with a little ſtreight point, having an eye in it like a Sadlexs bodkin.</p>
+            <div type="uses">
+               <head>The uſe of the aforeſaid Instrument.</head>
+               <div type="application">
+                  <head>1. To draw an horizontal line,</head>
+                  <p>Fix the Diall on the Baſis with the Index upon ei<g ref="char:EOLhyphen"/>ther of the croſs lines, then turning the Inſtrument with the graduated ſide of the Gnomon towards you, ſet the oppoſite edge to the plane, and hold<g ref="char:EOLhyphen"/>ing it ſo as the thred playing at liberty, fal directly on the perpendicular line: you may by the edge of the Inſtrunent touching the plane, draw an hori<g ref="char:EOLhyphen"/>zontal, or level line.</p>
+               </div>
+               <div type="application">
+                  <head>2. To draw a perpendicular line</head>
+                  <p>Draw firſt an Horizontal line, and laying the back ſide of the Inſtrument or the plate cloſe to the plane till the upper edge touch that line, all along you ſhall have 2 edges to guide you at your choice, to draw a perpendicular line.</p>
+               </div>
+               <div type="application">
+                  <head>3. To draw a meridian line.</head>
+                  <p>Fix the Inſtrument Horizontally, and ſet the Di<g ref="char:EOLhyphen"/>all to the true hour of the day, then will the thred laid upon the meridian line of the Diall, and extended at pleaſure, give you a meridian line upon any Horizontal plane that it can touch, and by the help of a thred and plummet upon any plane above or below the extended thred.</p>
+               </div>
+               <div type="application">
+                  <pb n="5" facs="tcp:42916:5"/>
+                  <head>4. To find the Suns Azimuth.</head>
+                  <p>Fix the Diall upon the Baſis, with the Index ſtanding over the line <hi>N. S.</hi> at <hi>N.</hi> Then turning a<g ref="char:EOLhyphen"/>bout the whole Inſtrument, till ſtanding Horizon<g ref="char:EOLhyphen"/>tally, it give you the true time of the day, (which you muſt firſt know by ſome good double ring-di<g ref="char:EOLhyphen"/>all or otherwiſe) fix the Baſis alſo to ſome ſtable thing by nailes driven through holes made in the Angles thereof to that purpoſe, and drawing up perpendicularly ſo much of your thred at the cen<g ref="char:EOLhyphen"/>tre of the Diall, as will ſuffice to caſt the ſhadow upon the circle of the Baſis: the degree or part cut by that ſhadow, is the Azimuth from the South, and its complement to a quadrant the Azi<g ref="char:EOLhyphen"/>muth from Eaſt or Weſt: but if the ſhadow of the thred, fall not upon either of the divided quadrants, but nearer towards the letter <hi>S.</hi> then turn about the Diall (the baſis remaining fixed till the Index ſtand upon the line <hi>W. E.</hi> at <hi>E.</hi> or <hi>W.</hi> as occaſion is: that is at <hi>E.</hi> in the morning, at <hi>W.</hi> in the evening, then will the ſhadow give you the Sun's Azimuth from the Eaſt or Weſt point, and that added to 90 degrees is his Azimuth from the South, and ſubducted from 90 degrees, it gives his Azimuth from the North.</p>
+               </div>
+               <div type="application">
+                  <head>5. To find the Suns altitude or Almicantar.</head>
+                  <p>Let the Index be placed over one of the great croſs lines of the Baſis, and a line drawn upon the Gnomon, meeting the perpendicular at right an<g ref="char:EOLhyphen"/>gles in the Centre or hole for the thred. Then <pb n="6" facs="tcp:42916:6"/>holding that edge to which the Index looketh, ho<g ref="char:EOLhyphen"/>rizontally, and erecting a pin perpendicularly in the ſaid hole, hold up or depreſs the oppoſite edge till the ſhadow of the ſaid pin run along the line, then will the thred, playing at liberty, fall upon the degrees and parts of the Suns height above the horizon.</p>
+               </div>
+               <div type="application">
+                  <head>6. To find the unknown latitude of a place, the hour being given.</head>
+                  <p>Draw a Meridian line by the rules of Art, as Mathematicians teach (which are too long to be here recited) Then placing the Meridian of the Dyal upon the Meridian ſo drawn, and lifting up the South or North end of the Dyal (Baſis and all, except you have taken the Dyal off from the Baſis) till the ſhadow give you the true time of the day, the thred will ſhew how many degrees, and parts the latitude of the place where your work is to be performed, is more or leſs than the known lati<g ref="char:EOLhyphen"/>tude of that place for which the Dyal was project<g ref="char:EOLhyphen"/>ed; but for this purpoſe the Dyal ſhould be large, and the time of the day a great ſpace from noon.</p>
+               </div>
+               <div type="application">
+                  <head>7. To find the inclination or reclination of a plane.</head>
+                  <p>Apply the plate to the plain flat ſide of the Gno<g ref="char:EOLhyphen"/>mon, or ſtile, ſo as the long edge may reſt upon the Dyal-plate, and the ſhort edge reach juſt to the edge of the Baſis, towards which the Index pointeth, ſtanding upon one of the croſs lines of the Baſis; Then having drawn an horizontal line <pb n="7" facs="tcp:42916:6"/>upon the plane, apply thereunto the edge of the Baſis, with the plate ſo plac'd upon it in ſuch ſort, as that the ſhort edge of the plate may reſt all a<g ref="char:EOLhyphen"/>long upon the plane. Then will the thred playing at liberty, ſhew upon the other ſide of the Style the degrees and parts of Inclination or reclination, <hi>viz.</hi> of inclination when the thred falleth between the perpendicular line and centre of the Dyal; of reclination when the ſaid thred falleth between the perpendicular line and the Index, The quantity of the Angle being ever reckoned from the perpen<g ref="char:EOLhyphen"/>dicular to the place cut by the thred.</p>
+               </div>
+               <div type="application">
+                  <head>8, To find the declination of a Plane.</head>
+                  <p>Apply the fiducial edge of the Baſis, with the Index ſet towards it, upon the line <hi>N. S.</hi> to an ho<g ref="char:EOLhyphen"/>rizontal line drawn upon the plane, ſo as the Plummet hanging at liberty, the thred will fall upon the perpendicular line (the Dyal being fitted to the latitude of the place where it is to be uſed) then turning about the Dyal, till (by the Sun ſhi<g ref="char:EOLhyphen"/>ning upon it) it ſhew the right time of the day: and upon one of the divided quadrants you ſhall find either the Index pointing out the declination of the Axis of the plane, from the South towards the Eaſt or Weſt; or the counter-Index ſhewing the declination from North, towards the Eaſt or Weſt: always reckoning the degrees and parts from <hi>N.</hi> where the degrees begin.</p>
+                  <div type="caution">
+                     <head>A caution.</head>
+                     <p>If your Diall be for another latitude, conſide<g ref="char:EOLhyphen"/>rably
+<pb n="8" facs="tcp:42916:7"/>differing: you muſt both in this, and the fol<g ref="char:EOLhyphen"/>lowing caſes, ſo hold your Inſtrument, that upon the Arch on the Gnomon, ſo many degrees and parts may be cut by the threed, from the perpen<g ref="char:EOLhyphen"/>dicular line towards the index, as the latitude of the place for which the Diall was made, is grea<g ref="char:EOLhyphen"/>ter then that where it is uſed: or contrarily ſo ma<g ref="char:EOLhyphen"/>ny degrees and parts from the perpendicular line towards the centre of the Diall, as the latitude for which the Diall was drawn is leſs then of the place where you make uſe of it; This caution is ever to be underſtood when I ſpeak of placing the In<g ref="char:EOLhyphen"/>ſtrument Horizontally.</p>
+                  </div>
+               </div>
+               <div type="application">
+                  <head>9. To draw a true Dial ſpeedily, without skill in the Mathematicks, upon any erect plain, or irregular face of a body, being ſituate more Southerly, than the Eaſt or Weſt points, <hi>viz.</hi> when the Index ſhewes the declination.</head>
+                  <p>Place the Inſtrument Horizontally upon a Table, or ſome other ſtable thing: and having fixed the Baſis, turn about the Diall to the true time of the day, and fix it alſo by the pin made for that pur<g ref="char:EOLhyphen"/>poſe; then drawing out the thred at the centre of the Dyall ſtreight along the upper edge of the Gnomon, till it touch the place where the dyall muſt be made: the point ſo touched by the thred, ſhall be the centre of your Dyall, and the thred drawn out ſtraight ſhews the Angle and forme of the Gnomon: then lay the thred upon all the hours, half-hours and quarters, which the plane
+<pb n="9" facs="tcp:42916:7"/>or other face, will receive, and drawing the thred out ſtreight, and perfectly even with the Dyall-plate, till it touch the plain or other face, make points where it toucheth, by which and the centre of the Dyall, you may draw all the hour lines, and mark out the half-hours and quarters.</p>
+                  <div type="notes">
+                     <head>Here once for all note theſe <hi>3</hi> things</head>
+                     <p n="1">1. That i'ts good to try, before you fix the In<g ref="char:EOLhyphen"/>ſtrument, where the centre of the Dyall will be, re<g ref="char:EOLhyphen"/>moving the Inſtrument backward, and forward, till the thred hir where you would have it; and if by this means the Inſtrument ſtand far off from your work, you may by a ruler or plate laid even, (ſo far as you can apply it) with the edg of the ſtyle guide the thred more perfectly; The ſame courſe is to be held, when the Inſtrment is very ſmall.</p>
+                     <p n="2">2. If you draw out the thred at the centre of the Dyall, along the meridian line, ſtraight over the Index till it touch the plane, it will give you a point, by which and the centre of the Dyall, you may draw a line which ſhall be your ſubſtyle, where the foot of your ſtyle or Gnomon muſt ſtand.</p>
+                     <p n="3">3 If you apply the long edge of the plate to the ſubſtyle, and lay the flat ſide to the thred drawn out ſtraight from the centre of the Dyall, along the upper edge of the Gnomon, till it touch the plane in the centre for the new Dyall as afore<g ref="char:EOLhyphen"/>ſaid, <pb n="10" facs="tcp:42916:8"/>you may by your pen, pencil, or the like, make 2 or more points where the thred toucheth, and by the help thereof draw a line, which, together with the edge applyed to the ſubſtyle, giveth you the perfect Angle and form of the Gnomon upon a fixed thing, which will guide a Workman far better than the thred to make the Gnomon; and by this means the pattern may be ſent any whi<g ref="char:EOLhyphen"/>ther.</p>
+                  </div>
+               </div>
+               <div type="application">
+                  <head>10. To draw a true Dyal ſpeedily upon any erect plane ſituated more Northerly than the Eaſt or Weſt point, <hi>viz.</hi> when the Counter-Index ſhews the declination.</head>
+                  <p>Turn the Index to the place where the Counter-Index ſtood when you took the declination; then going to the other fide of the open wall or build<g ref="char:EOLhyphen"/>ing, find a place where that declination fits, that is, where the Dyal ſtanding as aforeſaid, and the fiducial edge of the inſtrument applyed to the plane horizontally, the Gnomon ſhews the true time of the day, by the ſhadow; and if that prove difficult, you may by a door moved upon its hin<g ref="char:EOLhyphen"/>ges, or reared up in a due poſition, relieve your ſelf: Upon the place found, pin a large ſheet of Paſt-board, or Paper-Royal, ſtreight and even, and thereon draw a Dyal, as was laſt directed, for a Southerly plane. Then take it down, and prick<g ref="char:EOLhyphen"/>ing it through, draw ſo many of the lines as the Sun in the longeſt dayes will ſhine on, upon the back-ſide, which being placed on your Northerly <pb facs="tcp:42916:8"/>plane, with the Centre downwards, in a perpen<g ref="char:EOLhyphen"/>dicular line directly under the point, which on the other ſide would have ſtood for 12 of the clock, will be a perfect pattern to draw a Dyal on it, whoſe lines you may extend or ſhorten at your pleaſure, as beſt fits your plane.</p>
+               </div>
+               <div type="application">
+                  <head>11. To draw a Meridian Dyal upon an Eaſt or Weſt plane.</head>
+                  <p>When you are taking the declination of a plane, if the Index and Counter-Index ſtand upon the line <hi>E. W.</hi> It is a meridian plane, whoſe Axis is true Eaſt or Weſt, according to the letter pointed at by the Index. Now to draw a Dyal on ſuch a plane, place the inſtrument horizontally, the fi<g ref="char:EOLhyphen"/>dncial edge touching the plane. Then laying the thred upon all the hour-lines and half-hours that the plane will receive, draw forth the thred ſtreight to the plane, and mark the points where the thred toucheth (which may be beſt done if the Dyal ſtand cloſe to the plane, by help of the needle be<g ref="char:EOLhyphen"/>fore deſcribed) for if you put the thred through the eye thereof, and hold it ſtreight, the ſtreight end will help you to mark the points exactly, and the crooked part riſing upward will give way to your eye, to ſee whether the thred lie right upon the hour-lines, &amp;c. Then laying your plate flat upon the upper edge of the Gnomon, the long edge of the plate reſting all along upon the line VI. the ſhorter touching the plane, will be your guide to draw the ſubſtyle, which by a ruler you may
+<pb n="12" facs="tcp:42916:9"/>extend at pleaſure; Then removing your inſtru<g ref="char:EOLhyphen"/>ment a little higher or lower (it matters not whe<g ref="char:EOLhyphen"/>ther, ſo that it ſtand again horizontally cloſe to the plane, and ſo as the plate will again fall into the ſubſtylar line) mark points for hours as afore<g ref="char:EOLhyphen"/>ſaid, by which points and the former, lines may be drawn parallel to the ſubſtyle, which muſt be marked with the ſame numbers with the hours on your Dyal-plate, that guided you to them.</p>
+                  <div type="notes">
+                     <head>But here alſo it is good to note diverſe things.</head>
+                     <p n="1">1. Your ſtyle muſt be a pin with a ſharp point, or elſe a parallel plate ſet up perpendicularly in the ſubſtyle, juſt ſo high as may reach the hour-line of 9 in an Eaſtern Dyal, and 3 in a Weſtern.</p>
+                     <p n="2">2. If you have the Art of drawing parallel lines either Geometrically, or by help of the plate (which will ſupply the place of a ſquare) you may ſpare the ſecond application of the Inſtrument to the plane.</p>
+                     <p n="3">3. If the plane be high and inconvenient for the fixing of your Inſtrument cloſe to it, you may pin a Paſt-board or paper upon any Wall, as if that were a true meridian Wall, and draw a Dyal up<g ref="char:EOLhyphen"/>on it (having firſt obſerved in the fixing of your Inſtrument, that the Index ſtand as it did when you took the declination, and the fiducial edge be applyed to the plane) Then ſtriking a perpendi<g ref="char:EOLhyphen"/>cular, or horizontal line quite through your paper, <pb n="13" facs="tcp:42916:9"/>draw the like line upon the plane where the Dyal ſhould be drawn, and placing the perpendicular or horizontal line, which is on the Paſt-board or paper, upon that which is drawn on the plane, you may prick two points through every line in the paper, and thereby draw them upon the plane.</p>
+                     <p n="4">4. If you would make a larger Dyal than the Inſtrument ſet cloſe will give you, you may do it by ſetting the Inſtrument further off; but then if you know not how to draw parallel lines, without a ſecond application of the Inſtrument, you muſt be ſure to ſet it juſt at the ſame diſtance from the plane at both applications; to which pur<g ref="char:EOLhyphen"/>poſe it will be convenient to interpoſe a parallel piece of wood truly wrought; but to make a leſs Dyal of this ſort, you muſt have a leſs Inſtrument, or elſe by taking the Dyal off the Baſis, you may apply it cloſer, or make uſe of a ſmall horizontal Dyal, which indeed will do this work (and ſome of the other) as well as the Inſtrument.</p>
+                     <p n="5">5. The Line of VI. and the ſubſtyle are the ſame.</p>
+                     <p n="6">6. You may make the Dyal of what ſhape you pleaſe, as round, ſquare, oval, or in the form of an heart, <hi>&amp;c.</hi> but a long ſquare is moſt uſual: Nor doth it matter how long or ſhort the hour-lines be, provided they run ſtreight on ſo far as they go.</p>
+                  </div>
+               </div>
+               <div type="application">
+                  <head>12. To draw an Horizontal Dyal upon its own plane.</head>
+                  <p>This is ſo eaſie that I thought to have omitted
+<pb n="14" facs="tcp:42916:10"/>it, for if you place the Inſtrument upon it, and turning the Dyal to the true hour of the day, there fix it, the thred laid upon the ſeveral hours, half hours, and quarters, will transfer them to the plane, and lines drawn from the oppoſite hours of the ſame number, will meet in the centre, and the Gnomon of the Dyal gives the pattern of the Gnomon of the other which muſt be placed in the meridian line (which I ſhewed before how to draw) to the centre of the new Dyal.</p>
+                  <p>The Inſtrument may be made uſe of for drawing of reflecting Dyals, and many other curioſities, but the performance preſuppoſeth more skill than I can preſume to be in them for whom this contri<g ref="char:EOLhyphen"/>vance is principally intended.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="advert_for_mathematical_instrument-makers">
+            <p>
+               <hi>IF any one deſire to be furniſhed with the Instru<g ref="char:EOLhyphen"/>ment herein deſcribed, he may make uſe of Mr.</hi> Edward Fage <hi>in</hi> Hoſier-Lane, <hi>at the Sign of the Sugar-Loaf, Mathematical Inſtrument-Maker, or Mr.</hi> William Newton <hi>of</hi> Fulſhaw,
+<hi>living in</hi> Mancheſter, <hi>in</hi> Lancaſhire; <hi>who will make it ei<g ref="char:EOLhyphen"/>ther in Braſs or Wood exactly, and at a reaſonable rate.</hi>
+            </p>
+         </div>
+         <div type="note">
+            <p>
+               <hi>Any that hath but ſo much (or rather little) skil in Geometry as to meaſure Angles, he may make uſe of an horizontal Dyal only, with a thred at the Centre.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42916:10"/>
+         </div>
+      </back>
+   </text>
+</TEI>
